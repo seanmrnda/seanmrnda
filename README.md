@@ -1,13 +1,17 @@
-## Hi there 👋
-
-## Who am I?
-* Sean Lester Miranda.
+### Hi! I'm Sean Lester Miranda.
   * A college undergraduate student.
   * Who loves to explore technology.
   * Such as Programming Languages and Operating Systems.
 * Programming Languages
   * Go
   * Python
+* Operating Systems
+  * GNU/Linux
+    • Debian
+    • Ubuntu
+    • Fedora
+    • Pop OS
+    • Mx Linux
 
 
 <!--
