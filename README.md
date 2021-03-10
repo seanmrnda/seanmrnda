@@ -1,7 +1,9 @@
-### Hi! I'm Sean Lester Miranda.
+### Hey, I'm Sean Lester Miranda! 😄
+- - -
 I'm a College Undergraduate Student,
 who loves to explore and learn about computer technologies.
 
+### What I'm focus on 🤔
 * Programming Languages
   * Go
   * Python
