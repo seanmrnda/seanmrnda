@@ -1,4 +1,4 @@
-<div align="center"><img src="img/schwarz.jpg" width="300px" style="padding: 14px 40px;">
+<div align="center"><img src="img/schwarz.jpg" width="300px">
 </div>
 <!--
 **schwarz-sterben/schwarz-sterben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
