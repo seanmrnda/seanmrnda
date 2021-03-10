@@ -7,11 +7,11 @@
   * Python
 * Operating Systems
   * GNU/Linux
-    • Debian
-    • Ubuntu
-    • Fedora
-    • Pop OS
-    • Mx Linux
+    <br />• Debian
+    <br />• Ubuntu
+    <br />• Fedora
+    <br />• Pop OS
+    <br />• Mx Linux
 
 
 <!--
