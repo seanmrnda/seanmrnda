@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 ## Who am I?
-* I'm Sean Lester Miranda.
+* Sean Lester Miranda.
   * A college undergraduate student.
   * Who loves to explore technology.
   * Such as Programming Languages and Operating Systems.
+* Programming Languages
+  * Go
+  * Python
 
 
 <!--
