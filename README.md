@@ -1,19 +1,14 @@
-### Hey, I'm Sean Lester Miranda! 😄
-- - -
-I'm a College Undergraduate Student,
-who loves to explore and learn about computer technologies.
+<h2>Hey, I'm Sean Lester Miranda! 😄<h2/>
+<hr />
+<p>I'm a College Undergraduate Student,
+who loves to explore and learn about computer technologies.<p/>
 
-### What I'm focus on 🤔
-* Programming Languages
-  * Go
-  * Python
-* Operating Systems
-  * GNU/Linux
-    <br />• Debian
-    <br />• Ubuntu
-    <br />• Fedora
-    <br />• Pop OS
-    <br />• Mx Linux
+<h2>What I'm focus on 🤔<h2/>
+<p>Programming Languages</p>
+<ul>
+  <li>Go</li>
+  <li>Python</li>
+</ul>
 
 
 <!--
