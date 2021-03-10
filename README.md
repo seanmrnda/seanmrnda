@@ -1,7 +1,7 @@
 ### Hi! I'm Sean Lester Miranda.
-  * A college undergraduate student.
-  * Who loves to explore technology.
-  * Such as Programming Languages and Operating Systems.
+I'm a College Undergraduate Student,
+who loves to explore and learn about computer technologies.
+
 * Programming Languages
   * Go
   * Python
