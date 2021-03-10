@@ -1,16 +1,5 @@
-<h2>Hey, I'm Sean Lester Miranda! 😄<h2/>
-<hr />
-<p>I'm a College Undergraduate Student,
-who loves to explore and learn about computer technologies.<p/>
-
-<h2>What I'm focus on 🤔<h2/>
-<p>Programming Languages</p>
-<ul>
-  <li>Go</li>
-  <li>Python</li>
-</ul>
-
-
+<div align="center"><img src="https://github.com/schwarz-sterben/schwarz-sterben/img/schwarz.jpg" width="30px">
+</div>
 <!--
 **schwarz-sterben/schwarz-sterben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
