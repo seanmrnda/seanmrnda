@@ -1,7 +1,7 @@
 <div align="center"><img src="img/sterb-AlmendraDx2460.jpg" width="550px">
 </div>
 
-<span style="background-color: black; color: white; padding: 1px;">Hi I'm Sean - aka</span> [schwarz sterben][website] 💀
+# Hi I'm Sean - aka [schwarz sterben][website] 💀
 
 [![Website](https://img.shields.io/website?label=schwarzsterben.ml&style=for-the-badge&url=https%3A%2F%2Fschwarzsterben.ml&color=black&labelColor=black)](https://schwarzsterben.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/schwrzstrbn?color=black&logo=twitter&style=for-the-badge&labelColor=black)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
