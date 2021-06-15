@@ -1,12 +1,12 @@
 <div align="center"><img src="img/sterb-AlmendraDx2460.jpg" width="550px">
 </div>
 
-## Hi I'm Sean - aka [schwarz sterben][website] 💀
+# Hi I'm Sean - aka [schwarz sterben][website] 💀
 
 [![Website](https://img.shields.io/website?label=schwarzsterben.ml&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://schwarzsterben.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/schwrzstrbn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="schwarzsterben.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="schwrzstrbn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
