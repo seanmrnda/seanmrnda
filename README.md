@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?label=schwarzsterben.ml&style=for-the-badge&url=https%3A%2F%2Fschwarzsterben.ml)](https://schwarzsterben.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/schwrzstrbn?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
 [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/schwrzstrbn)](https://facebook.com/schwrzstrbn)
-[![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=for-the-badge)]
+[Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=for-the-badge)
 
 ## Connect with me:
 
