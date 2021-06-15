@@ -18,9 +18,6 @@
 
 <br />
 
-```diff
-test
-```
 
 <!-- ### Languages and Tools:
 
