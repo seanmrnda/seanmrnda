@@ -22,9 +22,9 @@
 <br />
 
 ## Support:
-
+<div align="center">
 <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a>
-
+</div>
 
 
 <!-- ### Languages and Tools:
