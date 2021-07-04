@@ -19,7 +19,8 @@
   </a>
 </p>
 
-<br />
+---
+
 
 # Hi I'm Sean - aka [schwarz sterben][website] 💀
 
@@ -43,6 +44,8 @@
 [<img align="left" alt="schwrzstrbn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="schwrzstrbn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
+
+---
 
 ## Support:
 
