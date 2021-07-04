@@ -1,6 +1,24 @@
 <div align="center"><img src="img/sterb-AlmendraDx2460.jpg" width="550px">
 </div>
 
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/schwrzstrbn" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/4467741/schwrzstrbn" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/schwrzstrbn" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:schwrzstrbn.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
+
 # Hi I'm Sean - aka [schwarz sterben][website] 💀
 
 [![Website](https://img.shields.io/website?label=schwarzsterben.ml&style=flat&url=https%3A%2F%2Fschwarzsterben.ml&color=black&labelColor=black)](https://schwarzsterben.ml)
@@ -11,14 +29,14 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn)](https://github.com/schwrzstrbn/github-readme-stats)
 -->
-
+<!--
 ## Connect with me:
 
 [<img align="left" alt="schwarzsterben.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="schwrzstrbn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="schwrzstrbn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="schwrzstrbn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+-->
 <br />
 
 ## Support:
