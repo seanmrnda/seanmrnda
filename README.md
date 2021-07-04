@@ -23,13 +23,14 @@
 
 # Hi I'm Sean - aka [schwarz sterben][website] 💀
 
+![sterben's github stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn&show_icons=true&theme=dark&hide=stars,issues)
+
 [![Website](https://img.shields.io/website?label=schwarzsterben.ml&style=flat&url=https%3A%2F%2Fschwarzsterben.ml&color=black&labelColor=black)](https://schwarzsterben.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/schwrzstrbn?color=black&logo=twitter&style=flat&labelColor=black)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
 <!-- [![Website](https://img.shields.io/website?label=Facebook&style=flat&url=https%3A%2F%2Ffacebook.com/schwrzstrbn)](https://facebook.com/schwrzstrbn) -->
 [![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=flat&color=black&labelColor=black)](https://github.com/schwrzstrbn)
 [![Facebook](https://img.shields.io/twitter/url?color=black&label=Facebook&style=flat&url=https%3A%2F%2Fwww.facebook.com%2Fschwrzstrbn&labelColor=black)](https://facebook.com/schwrzstrbn)
 
-![sterben's github stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn&show_icons=true&theme=dark&hide=stars,issues)
 
 <!--
 [![sterben's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn)](https://github.com/schwrzstrbn/github-readme-stats)
