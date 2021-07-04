@@ -6,7 +6,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/4467741/schwrzstrbn" target="_blank" style='margin-right:10px'>
+  <a href="https://stackoverflow.com/users/11480951/schwarz-sterben" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
@@ -26,8 +26,11 @@
 <!-- [![Website](https://img.shields.io/website?label=Facebook&style=flat&url=https%3A%2F%2Ffacebook.com/schwrzstrbn)](https://facebook.com/schwrzstrbn) -->
 [![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=flat&color=black&labelColor=black)](https://github.com/schwrzstrbn)
 [![Facebook](https://img.shields.io/twitter/url?color=black&label=Facebook&style=flat&url=https%3A%2F%2Fwww.facebook.com%2Fschwrzstrbn&labelColor=black)](https://facebook.com/schwrzstrbn)
+
+![sterben's github stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn&show_icons=true&theme=dark&hide=stars,issues)
+
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn)](https://github.com/schwrzstrbn/github-readme-stats)
+[![sterben's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn)](https://github.com/schwrzstrbn/github-readme-stats)
 -->
 <!--
 ## Connect with me:
@@ -37,7 +40,6 @@
 [<img align="left" alt="schwrzstrbn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="schwrzstrbn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
-<br />
 
 ## Support:
 
