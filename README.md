@@ -19,6 +19,8 @@
   </a>
 </p>
 
+<br />
+
 # Hi I'm Sean - aka [schwarz sterben][website] 💀
 
 [![Website](https://img.shields.io/website?label=schwarzsterben.ml&style=flat&url=https%3A%2F%2Fschwarzsterben.ml&color=black&labelColor=black)](https://schwarzsterben.ml)
