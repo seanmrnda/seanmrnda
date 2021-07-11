@@ -1,4 +1,4 @@
-<div align="center"><img src="img/sterb-AlmendraDx2460.jpg" width="550px">
+<div align="center"><img src="img/strbn2460px.jpg" width="550px">
 </div>
 
 <p align="center" style="margin: -20px 0 30px">
