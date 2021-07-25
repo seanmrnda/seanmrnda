@@ -26,7 +26,7 @@
 
 ![sterben's github stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn&show_icons=true&theme=dark&hide=stars,issues)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schwrzstrbn&theme=highcontrast&currStreakLabel=FFFFFF&fire=FFFFFF&ring=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schwrzstrbn&theme=highcontrast&currStreakLabel=FFFFFF&fire=FFFFFF&ring=FFFFFF&border=000000)](https://git.io/streak-stats)
 
 [![Website](https://img.shields.io/website?label=schwarzsterben.ml&style=for-the-badge&url=https%3A%2F%2Fschwarzsterben.ml&color=black&labelColor=black)](https://schwarzsterben.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/schwrzstrbn?color=black&logo=twitter&style=for-the-badge&labelColor=black)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
