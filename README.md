@@ -24,7 +24,7 @@
 
 # Hi I'm Sean - aka [schwarz sterben][website] 💀
 
-![sterben's github stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn&show_icons=true&theme=highcontrast&hide=stars&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+![sterben's github stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn&show_icons=true&theme=highcontrast&hide=stars&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schwrzstrbn&theme=highcontrast&currStreakLabel=FFFFFF&fire=FFFFFF&ring=FFFFFF&border=000000)](https://git.io/streak-stats)
 
