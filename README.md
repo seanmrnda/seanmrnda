@@ -28,7 +28,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schwrzstrbn&theme=highcontrast&currStreakLabel=FFFFFF&fire=FFFFFF&ring=FFFFFF&border=000000)](https://git.io/streak-stats)
 
-[![Website](https://img.shields.io/website?label=schwarzsterben.ml&style=for-the-badge&url=https%3A%2F%2Fschwarzsterben.ml&color=black&labelColor=black)](https://schwarzsterben.ml)
+[![Website](https://img.shields.io/website?label=seanmiranda.dev&style=for-the-badge&url=https%3A%2F%2Fseanmiranda.netlify.app&color=black&labelColor=black)](https://seanmiranda.netlify.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/schwrzstrbn?color=black&logo=twitter&style=for-the-badge&labelColor=black)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
 <!-- [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/schwrzstrbn)](https://facebook.com/schwrzstrbn) -->
 [![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=for-the-badge&color=black&labelColor=black)](https://github.com/schwrzstrbn)
