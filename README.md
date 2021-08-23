@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://www.schwarzsterben.ml
+[website]: https://seanmiranda.netlify.app
 [twitter]: https://twitter.com/schwrzstrbn
 [instagram]: https://instagram.com/schwrzstrbn
 [linkedin]: https://linkedin.com/in/schwrzstrbn
