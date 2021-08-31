@@ -39,7 +39,7 @@
 [![Facebook](https://img.shields.io/twitter/url?color=black&label=Facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fschwrzstrbn&labelColor=black)](https://facebook.com/schwrzstrbn)
    
 <h1 align="center">Support</h1>
-<a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a>
+<a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a> 💀
 </p>
 </div>
 <!--
