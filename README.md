@@ -21,8 +21,12 @@
 
 ---
 
+<h1 align="center">
+   Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app">schwarz sterben</a> 💀
+</h1>
 
-# Hi I'm Sean - aka [schwarz sterben][website] 💀
+<div align="center">
+<p align="center">
 
 ![sterben's github stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn&show_icons=true&theme=highcontrast&hide=stars&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&include_all_commits=true)
 
@@ -33,8 +37,11 @@
 <!-- [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/schwrzstrbn)](https://facebook.com/schwrzstrbn) -->
 [![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=for-the-badge&color=black&labelColor=black)](https://github.com/schwrzstrbn)
 [![Facebook](https://img.shields.io/twitter/url?color=black&label=Facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fschwrzstrbn&labelColor=black)](https://facebook.com/schwrzstrbn)
-
-
+   
+<h1 align="center">Support</h1>
+<a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a>
+</p>
+</div>
 <!--
 [![sterben's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn)](https://github.com/schwrzstrbn/github-readme-stats)
 -->
@@ -47,9 +54,12 @@
 [<img align="left" alt="schwrzstrbn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
 
-## Support :skull:
+<div align="center">
+<p align="center">
+   
 
-<a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a>
+</p>
+</div>
 <!--
 <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 -->
