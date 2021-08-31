@@ -22,7 +22,7 @@
 ---
 
 <h1 align="center">
-   Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app">schwarz sterben</a> 💀
+   Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app" target="_blank">schwarz sterben</a> 💀
 </h1>
 
 <div align="center">
@@ -54,12 +54,7 @@
 [<img align="left" alt="schwrzstrbn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -->
 
-<div align="center">
-<p align="center">
-   
 
-</p>
-</div>
 <!--
 <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 -->
