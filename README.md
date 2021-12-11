@@ -22,7 +22,7 @@
   </a>
 </p> -->
 
----
+<!-- --- -->
 
 <h1 align="center">
    Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app" target="_blank">schwarz sterben</a> 💀
