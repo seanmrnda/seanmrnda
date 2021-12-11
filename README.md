@@ -1,4 +1,4 @@
-<div align="center"><img src="img/ninja-3x.gif" width="300px">
+<div align="center"><img src="img/ninja-large.gif" width="300px">
 </div>
 
 <!-- <div align="center"><img src="img/strbn2460px.jpg" width="550px">
