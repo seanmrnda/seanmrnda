@@ -1,7 +1,10 @@
-<div align="center"><img src="img/strbn2460px.jpg" width="550px">
+<div align="center"><img src="img/ninja-large.gif" width="500px">
 </div>
 
-<p align="center" style="margin: -20px 0 30px">
+<!-- <div align="center"><img src="img/strbn2460px.jpg" width="550px">
+</div> -->
+
+<!-- <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/schwrzstrbn" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
@@ -17,9 +20,9 @@
   <a href="mailto:schwrzstrbn@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
   </a>
-</p>
+</p> -->
 
----
+<!-- --- -->
 
 <h1 align="center">
    Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app" target="_blank">schwarz sterben</a> 💀
