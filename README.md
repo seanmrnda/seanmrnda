@@ -23,10 +23,16 @@
 </p> -->
 
 <!-- --- -->
+<div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FFFFFF&size=28&lines=%23+su+sterben;%24+echo+%22Hi!+I'm+Sean%22;Hi!+I'm+Sean;%24+exit;%5BProcess+completed%5D)](https://git.io/typing-svg)
+
+</div>
+<!--
 <h1 align="center">
    Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app" target="_blank">schwarz sterben</a> 💀
 </h1>
+-->
 
 <div align="center">
 <p align="center">
