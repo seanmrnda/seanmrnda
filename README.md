@@ -33,6 +33,7 @@
    Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app" target="_blank">schwarz sterben</a> 💀
 </h1>
 -->
+<hr/>
 
 <div align="center">
 <p align="center">
