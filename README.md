@@ -25,7 +25,9 @@
 <!-- --- -->
 <div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FFFFFF&size=28&lines=%23+su+sterben;%24+echo+%22Hi!+I'm+Sean%22;Hi!+I'm+Sean;%24+exit;%5BProcess+completed%5D)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FFFFFF&size=28&lines=%23+su+sterben;%24+echo+%22Hi!+I'm+Sean%22;Hi!+I'm+Sean;%24+exit;%5BProcess+completed%5D)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=28&lines=%23+su+sterben;%24+cat+README.md;Hello!+I'm+Sean;%24+exit;%5BProcess+Completed%5D)](https://git.io/typing-svg)
 
 </div>
 <!--
