@@ -44,7 +44,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schwrzstrbn&theme=highcontrast&currStreakLabel=FFFFFF&fire=FFFFFF&ring=FFFFFF&border=000000)](https://git.io/streak-stats)
 
-[![Website](https://img.shields.io/website?label=seanmiranda.dev&style=for-the-badge&url=https%3A%2F%2Fseanmiranda.netlify.app&color=black&labelColor=black)](https://seanmiranda.netlify.app)
+[![Website](https://img.shields.io/website?label=seanmiranda.com&style=for-the-badge&url=https%3A%2F%2Fseanmiranda.com&color=black&labelColor=black)](https://seanmiranda.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/schwrzstrbn?color=black&logo=twitter&style=for-the-badge&labelColor=black)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
 <!-- [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/schwrzstrbn)](https://facebook.com/schwrzstrbn) -->
 [![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=for-the-badge&color=black&labelColor=black)](https://github.com/schwrzstrbn)
@@ -60,7 +60,7 @@
 <!--
 ## Connect with me:
 
-[<img align="left" alt="schwarzsterben.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="seanmiranda.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="schwrzstrbn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="schwrzstrbn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="schwrzstrbn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://seanmiranda.netlify.app
+[website]: https://seanmiranda.com
 [twitter]: https://twitter.com/schwrzstrbn
 [instagram]: https://instagram.com/schwrzstrbn
 [linkedin]: https://linkedin.com/in/schwrzstrbn
