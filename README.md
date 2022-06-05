@@ -55,11 +55,13 @@
 </p>
 </div>
 
+<div align="center">
 <p alight="center">
 <a href="https://ko-fi.com/B0B1D3A0N" target=_blank>
-<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Ko-Fi" height="41" width="174" background="black" color="white"
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Ko-Fi" height="41" width="174" background="black" color="white" align="center"
 </a>
 </p>
+</div>
 
 
 
