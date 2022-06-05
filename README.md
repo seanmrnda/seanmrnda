@@ -57,9 +57,7 @@
 
 <div align="center">
 <p alight="center">
-<a href="https://ko-fi.com/B0B1D3A0N" target=_blank>
-<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Ko-Fi" height="41" width="174" background="black" color="white" align="center"
-</a>
+   <a href='https://ko-fi.com/B0B1D3A0N' target='_blank'><img height='36' style='border:0px;height:36px;background:#00000' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
 </p>
 </div>
 
