@@ -54,6 +54,9 @@
 <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a>
 </p>
 </div>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1D3A0N)
+
 <!--
 [![sterben's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn)](https://github.com/schwrzstrbn/github-readme-stats)
 -->
