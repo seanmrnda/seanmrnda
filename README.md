@@ -1,12 +1,10 @@
-<!-- <div align="center"><img src="img/ninja-large.gif" width="500px">
-</div> -->
+
 
 <div align="center"><img src="gif/sterben.gif" width="600" height="400"></div>
 
-<!-- <div align="center"><img src="img/strbn2460px.jpg" width="550px">
-</div> -->
 
-<!-- <p align="center" style="margin: -20px 0 30px">
+<!-- 
+<p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/schwrzstrbn" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
@@ -25,13 +23,7 @@
 </p> -->
 
 <!-- --- -->
-<div>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FFFFFF&size=28&lines=%23+su+sterben;%24+echo+%22Hi!+I'm+Sean%22;Hi!+I'm+Sean;%24+exit;%5BProcess+completed%5D)](https://git.io/typing-svg) -->
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FFFFFF&size=28&lines=%23+su+sterben;%24+cat+README.md;Hello!+I'm+Sean;%24+exit;%5BProcess+Completed%5D)](https://git.io/typing-svg) -->
-
-</div>
 <!--
 <h1 align="center">
    Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app" target="_blank">schwarz sterben</a> 💀
@@ -58,13 +50,6 @@
 <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a>
 </p>
 </div>
-
-<!-- <div align="center">
-<p alight="center">
-   <a href='https://ko-fi.com/B0B1D3A0N' target='_blank'><img height='36' style='border:0px;height:36px;background:#00000' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
-</p>
-</div> -->
-
 
 
 <!--
