@@ -24,17 +24,9 @@
 
 <!-- --- -->
 
-<!--
-<h1 align="center">
-   Hi I'm Sean - aka <a href="https://seanmiranda.netlify.app" target="_blank">schwarz sterben</a> 💀
-</h1>
--->
-<!-- <hr/> -->
-
 <h1 align="center">Github Stats 💀</h1>
 
 <div align="center">
-<p align="center">
 
 ![sterben's github stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn&show_icons=true&theme=highcontrast&hide=stars&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&include_all_commits=true)
 
@@ -45,6 +37,7 @@
 <!-- [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/schwrzstrbn)](https://facebook.com/schwrzstrbn) -->
 [![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=for-the-badge&logo=github&color=black&labelColor=black)](https://github.com/schwrzstrbn)
 [![Facebook](https://img.shields.io/badge/Facebook-00ADD8?style=for-the-badge&logo=facebook&logoColor=white&color=black)](https://facebook.com/schwrzstrbn)
+[![Facebook](https://img.shields.io/badge/Email-00ADD8?style=for-the-badge&logo=email&logoColor=white&color=black)](mailto:schwrzstrbn@gmail.com)
 
 <h2>Tools 💀 </h2>
 
@@ -64,8 +57,11 @@
 
 
 <h2 align="center">Support 💀</h2>
-<a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a>
-</p>
+<!-- <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a> -->
+   
+[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-00ADD8?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&color=black)](https://buymeacoffee.com/schwrzstrbn)
+
+
 </div>
 
 
