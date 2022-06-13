@@ -60,6 +60,7 @@
 <!-- <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a> -->
    
 [![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-00ADD8?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&color=black)](https://buymeacoffee.com/schwrzstrbn)
+[![Ko-fi](https://img.shields.io/badge/SendKoFi-00ADD8?style=for-the-badge&logo=ko-fi&logoColor=white&color=black)](https://ko-fi.com/B0B1D3A0N)
 
 
 </div>
