@@ -33,11 +33,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=schwrzstrbn&theme=highcontrast&currStreakLabel=FFFFFF&fire=FFFFFF&ring=FFFFFF&border=000000)](https://git.io/streak-stats)
 
 [![Website](https://img.shields.io/website?label=seanmiranda.com&style=for-the-badge&url=https%3A%2F%2Fseanmiranda.com&color=black&labelColor=black)](https://seanmiranda.com)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&color=black)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
-<!-- [![Website](https://img.shields.io/website?label=Facebook&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/schwrzstrbn)](https://facebook.com/schwrzstrbn) -->
 [![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=for-the-badge&logo=github&color=black&labelColor=black)](https://github.com/schwrzstrbn)
+
+[![Twitter Follow](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&color=black)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
 [![Facebook](https://img.shields.io/badge/Facebook-00ADD8?style=for-the-badge&logo=facebook&logoColor=white&color=black)](https://facebook.com/schwrzstrbn)
-[![Facebook](https://img.shields.io/badge/Email-00ADD8?style=for-the-badge&logo=email&logoColor=white&color=black)](mailto:schwrzstrbn@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-00ADD8?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:schwrzstrbn@gmail.com)
 
 <h2>Tools 💀 </h2>
 
