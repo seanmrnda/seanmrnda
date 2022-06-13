@@ -46,7 +46,7 @@
 [![Github Followers](https://img.shields.io/github/followers/schwrzstrbn?style=for-the-badge&logo=github&color=black&labelColor=black)](https://github.com/schwrzstrbn)
 [![Facebook](https://img.shields.io/badge/Facebook-00ADD8?style=for-the-badge&logo=facebook&logoColor=white&color=black)](https://facebook.com/schwrzstrbn)
 
-<h2>Tools</h2>
+<h2>Tools 💀 </h2>
 
 ![RustlangBadge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=black)
 ![GolangBadge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black)
@@ -67,36 +67,6 @@
 <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a>
 </p>
 </div>
-
-
-<!--
-[![sterben's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwrzstrbn)](https://github.com/schwrzstrbn/github-readme-stats)
--->
-<!--
-## Connect with me:
-
-[<img align="left" alt="seanmiranda.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="schwrzstrbn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="schwrzstrbn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="schwrzstrbn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
-
-
-<!--
-<a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
--->
-
-<!-- ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br /> -->
 
 
 <!--
