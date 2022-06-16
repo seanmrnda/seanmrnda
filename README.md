@@ -37,7 +37,7 @@
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&color=black)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschwrzstrbn&screen_name=schwrzstrbn)
 [![Facebook](https://img.shields.io/badge/Facebook-00ADD8?style=for-the-badge&logo=facebook&logoColor=white&color=black)](https://facebook.com/schwrzstrbn)
-[![Gmail](https://img.shields.io/badge/Gmail-00ADD8?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:schwrzstrbn@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-00ADD8?style=for-the-badge&logo=gmail&logoColor=white&color=black)](https://mail.google.com/mail/?view=cm&source=mailto&to=[schwrzstrbn@gmail.com])
 
 <h2>Tools 💀 </h2>
 
