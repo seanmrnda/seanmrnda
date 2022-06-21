@@ -1,6 +1,6 @@
 
 
-<div align="center"><img src="gif/sterben-cover.gif" width="100%" height="auto"></div>
+<div align="center"><img src="gif/sterben-cover-v2.gif" width="100%" height="auto"></div>
 
 
 <!-- 
