@@ -24,7 +24,7 @@
 
 <!-- --- -->
 
-<h1 align="center">Github Stats 💀</h1>
+<h1 align="center">Github Stats 📊</h1>
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-00ADD8?style=for-the-badge&logo=facebook&logoColor=white&color=black)](https://facebook.com/schwrzstrbn)
 [![Gmail](https://img.shields.io/badge/Gmail-00ADD8?style=for-the-badge&logo=gmail&logoColor=white&color=black)](https://mail.google.com/mail/?view=cm&source=mailto&to=[schwrzstrbn@gmail.com])
 
-<h2>Tools 💀 </h2>
+<h2>Tools 🔧</h2>
 
 ![RustlangBadge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=black)
 ![GolangBadge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black)
@@ -56,7 +56,7 @@
 ![LinuxBadge](https://img.shields.io/badge/Linux-00ADD8?style=for-the-badge&logo=linux&logoColor=white&color=black)
 
 
-<h2 align="center">Support 💀</h2>
+<h2 align="center">Support 💙</h2>
 <!-- <a href="https://www.buymeacoffee.com/schwrzstrbn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174" background="black" color="white"></a> -->
    
 [![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-00ADD8?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&color=black)](https://buymeacoffee.com/schwrzstrbn)
